@@ -73,6 +73,5 @@ Result: 15
 
 This project is open source and available for learning purposes.
 
-## Author
-
-Your Name
+## Author 
+Hema
